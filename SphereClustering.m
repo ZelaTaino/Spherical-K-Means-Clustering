@@ -1,3 +1,4 @@
+% Made by Zela
 addpath('CircStat2012a');
 addpath('SPKmeans');
 %   The first task is to understand clustering on the hypersphere in order to
