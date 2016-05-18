@@ -1,3 +1,4 @@
+% Made by Zela Tainos
 addpath('CircStat2012a');
 addpath('SPKmeans');
 %   Make shpere
